@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:hi_lo/game_over.dart';
-import 'package:flip_card/flip_card.dart';
 import 'package:hi_lo/widgets/custom_popup.dart';
 import 'package:hi_lo/value.dart';
 
